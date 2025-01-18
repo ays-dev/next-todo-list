@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Liste de tâches - NextJS',
-  description: 'Todo-list avec NextJS et Tailwind CSS',
+  title: 'Liste de tâches - Next.sj',
+  description: 'Todo-list avec Next.js et Tailwind CSS',
 };
 
 export default function RootLayout({
