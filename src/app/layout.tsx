@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Liste de tâches - Next.sj',
+  title: 'Liste de tâches - Next.js',
   description: 'Todo-list avec Next.js et Tailwind CSS',
 };
 
